@@ -1,0 +1,7 @@
+from calc  import mul as m, total as t
+
+print(m(10,20))
+print(t(100,200))200
+output:
+200
+300

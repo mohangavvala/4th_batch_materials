@@ -1,0 +1,16 @@
+class  Test:
+    def  __init__(self,eno,sal):
+        self.eno=eno
+        self.sal=sal
+    def info(self):
+        print(self.eno)
+        print(self.sal)
+        
+        
+       
+t1=Test(222,10000) 
+print(t1.eno)
+print(t1.sal)
+#t1.info()   
+t2=Test(223,11000)  
+#t2.info()
